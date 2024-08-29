@@ -1,4 +1,5 @@
 ## CUSTOMER CHURN PREDICTION OF SYRIATEL COMPANY
+![Customer Churn Analysis](Images/cover.jfif) 
 ### Overview
 SyriaTel is addressing customer churn in the competitive telecommunication industry by developing machine learning models to predict churn based on customer data such as demographics and usage patterns. The objectives include building and evaluating these models to identify the most accurate predictor, analyzing key features impacting churn rates, and providing actionable recommendations to enhance customer retention. Additionally, the company aims to refine its retention strategies and continuously adapt its predictive models to stay aligned with changing customer behaviors and market conditions, ultimately reducing churn and improving profitability.
 ### Business Understanding
@@ -54,6 +55,16 @@ We visualized several columns on churn rates, voice mail and internation plan re
 - `Voice Mail Plan`: Lower churn rate indicates higher customer loyalty.
 - `International Plan`: Higher churn rate suggests dissatisfaction and a greater likelihood of switching.
 - `Customer Preference`: The Voice Mail plan is preferred over the International Plan due to lower churn and higher satisfaction.
+## Modelling and Evaluation 
+Here we build three models used for predicting customer churn in Seriatel company. The three models are
+- `Logistic Regression`: Training and testing accuracy of `76.1%` to `77.1%`, with no significant improvement after `5-fold cross-validation.`
+
+- `Decision Tree`: Achieved a training accuracy of `89.2%` and testing accuracy of `93.4%.` It provided the best overall performance, including F1 score, recall, and precision, after hyperparameter tuning.
+
+- `Random Forest`: Showed a training accuracy of `87.5%` and testing accuracy of `87.9%.` Although it performed well, it exhibited some overfitting compared to the Decision Tree.
+
+- The `Decision Tree model` is the most effective for predicting customer churn, outperforming both Logistic Regression and Random Forest in accuracy and other metrics.
+## Conclusion 
 
 
 
