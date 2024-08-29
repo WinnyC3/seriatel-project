@@ -38,4 +38,4 @@ We checked for missing values, duplicates, categorical and numerical values to e
 We further removed the class imbalance from the data and standardize to make date Consistent and uniformity of modelling.
 This was done to ensured that the data is valid,accurate and complete for modelling. 
 The chart shows heatmap for feature selection and relatuionship understanding.
-![Customer Churn Analysis]()
+![Customer Churn Analysis](Images/heatmap.png) 
