@@ -64,8 +64,18 @@ Here we build three models used for predicting customer churn in Seriatel compan
 - `Random Forest`: Showed a training accuracy of `87.5%` and testing accuracy of `87.9%.` Although it performed well, it exhibited some overfitting compared to the Decision Tree.
 
 - The `Decision Tree model` is the most effective for predicting customer churn, outperforming both Logistic Regression and Random Forest in accuracy and other metrics.
+- This can be illustrated in the ROC curve shown below 
+![Customer Churn Analysis](Images/modelling.png) 
 ## Conclusion 
-
+1. `Enhanced Retention`: Accurately predicts churn, allowing Syriatel to implement targeted strategies to retain customers.
+2. `Cost Savings`: Optimizes resource allocation by focusing efforts on high-risk customers, reducing unnecessary expenses.
+3. `Informed Decisions`: Provides actionable insights for strategic decision-making aligned with customer needs and business objectives.
+4. `Better Customer Experience`: Identifies churn factors, enabling improvements in service and customer interactions for increased satisfaction.
+## Recommendation 
+- `Targeted Retention`: Use the model to identify at-risk customers and create personalized retention strategies.
+- `Resource Optimization`: Allocate resources to high-risk customers for cost-effective retention.
+- `Improve Experience`: Address churn factors to enhance customer satisfaction and loyalty.
+- `Data-Driven Strategy`: Utilize insights for informed decisions on product and market strategies.
 
 
 
