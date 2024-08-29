@@ -39,3 +39,26 @@ The project utilizes historical customer data, including demographic information
 - This was done to ensured that the data is valid,accurate and complete for modelling. 
 - The chart shows heatmap for feature selection and relatuionship understanding.
 ![Customer Churn Analysis](Images/heatmap.png) 
+## Exploratory Data Understanding 
+We visualized several columns on churn rates, voice mail and internation plan relationship with churn and calls made in United States to get more insights about our data.
+### Univariate Analysis 
+![Customer Churn Analysis](Images/pie%20chart.png) 
+- The pie chart reveals that 90.3% of customers do not have an international plan, indicating its low popularity among SyriaTel’s customer base.
+![Customer Churn Analysis](Images/output.pngoutput.png) 
+- There is higher percentage of customers not to churn, indicating good customer retention.
+### Bivariate Analysis 
+![Customer Churn Analysis](Images/bivariate1.png) 
+- `Highest Charges`: The `101-200 minute range` has the highest total day charges, indicating it's the most common usage category.
+- `Lower Charges`: The `0-100 minute range` has the lowest total day charges, while charges for usage above `401 minutes` decrease, likely due to pricing strategies or caps.
+![Customer Churn Analysis](Images/bivariate2.png) 
+- `Voice Mail Plan`: Lower churn rate indicates higher customer loyalty.
+- `International Plan`: Higher churn rate suggests dissatisfaction and a greater likelihood of switching.
+- `Customer Preference`: The Voice Mail plan is preferred over the International Plan due to lower churn and higher satisfaction.
+
+
+
+
+
+
+
+
