@@ -1,7 +1,5 @@
 ## CUSTOMER CHURN PREDICTION OF SYRIATEL COMPANY
 ![Customer Churn Analysis](Images/picc.jpg) 
-- **pandas**: Version `1.5.3`
-- **numpy**: Version `1.24.2`
 ### Overview
 SyriaTel is addressing customer churn in the competitive telecommunication industry by developing machine learning models to predict churn based on customer data such as demographics and usage patterns. The objectives include building and evaluating these models to identify the most accurate predictor, analyzing key features impacting churn rates, and providing actionable recommendations to enhance customer retention. Additionally, the company aims to refine its retention strategies and continuously adapt its predictive models to stay aligned with changing customer behaviors and market conditions, ultimately reducing churn and improving profitability.
 ### Business Understanding
