@@ -44,8 +44,8 @@ The project utilizes historical customer data, including demographic information
 We visualized several columns on churn rates, voice mail and internation plan relationship with churn and calls made in United States to get more insights about our data.
 ### Univariate Analysis 
 ![Customer Churn Analysis](Images/pie%20chart.png) 
-- The pie chart reveals that 90.3% of customers do not have an international plan, indicating its low popularity among SyriaTel’s customer base.
-![Customer Churn Analysis](Images/output.pngoutput.png) 
+- The pie chart reveals that 90.3% of customers do not have an international plan, indicating its low popularity among SyriaTel’s customer base. 
+![Customer Churn Analysis](Images/output.png) 
 - There is higher percentage of customers not to churn, indicating good customer retention.
 ### Bivariate Analysis 
 ![Customer Churn Analysis](Images/bivariate1.png) 
